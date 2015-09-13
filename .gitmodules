@@ -1,0 +1,3 @@
+[submodule "BurnShader/Assets/dt-unity-library"]
+	path = BurnShader/Assets/dt-unity-library
+	url = https://github.com/DarrenTsung/dt-unity-library.git
